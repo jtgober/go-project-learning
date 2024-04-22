@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Go Learning Journey"
-  text: "Learning New Things All The Time"
+  name: "Go Learning Journey"
+  text: "Documents of my Learning Processs"
   tagline: My great project tagline
   actions:
     - theme: brand

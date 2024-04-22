@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Go Learning Journey",
-  description: "Learning New Things All The Time",
+  title: "Go Learning Journey",
+  description: "Documents of my Learning Processs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
