@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Go Learning Journey",
   description: "Documents of my Learning Processs",
+  base: "/go-project-learning/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
